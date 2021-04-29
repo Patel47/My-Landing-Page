@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Sniglet', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h1, h2{
+    margin-bottom: 25px;
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h4{
+    margin-bottom: 15px;
+    font-size: 1rem;
+    opacity: 0.8;
+}
